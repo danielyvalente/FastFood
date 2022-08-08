@@ -1,0 +1,14 @@
+form{
+  margin-top: 8%;
+  width: 90%;
+}
+
+input{
+  height: 75px;
+}
+
+img{
+  border-radius: 30px;
+  padding: 10px 20px;
+  object-fit: cover;
+}
